@@ -17,3 +17,4 @@ p7zip-full
 file-roller
 unzip
 geany
+idle3
