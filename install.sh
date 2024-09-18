@@ -18,14 +18,14 @@ cp -v -r i3 ~/.config/
 cp -v -r i3status ~/.config/
 cp -v -r kitty ~/.config/
 cp -v -r pcmanfm ~/.config/
-cp -v I-Noir-Gently-White-Blue-Dark-Icons.tar.gz ~/.icons
-cp -v T-Breeze-Gently.tar.gz ~/.themes
-cp -v fonts.7z ~/.fonts
-
+#cp -v I-Noir-Gently-White-Blue-Dark-Icons.tar.gz ~/.icons
+#cp -v T-Breeze-Gently.tar.gz ~/.themes
+#cp -v fonts.7z ~/.fonts
 
 tar -zxvf I-Noir-Gently-White-Blue-Dark-Icons.tar.gz -C ~/.icons
 tar -zxvf T-Breeze-Gently.tar.gz -C ~/.themes
 tar -zxvf Darkbolt-cursor.tar.gz -C ~/.icons
+7z x fonts.7z -o/home/rp/.fonts
 
 cp -v gtkrc-2.0 ~/.gtkrc-2.0
 cp -v -r gtk-3.0 ~/.config/
