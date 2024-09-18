@@ -28,6 +28,6 @@ cp -v gtkrc-2.0 ~/.gtkrc-2.0
 
 # grub theme
 sudo mkdir -p /boot/grub/themes
-unzip debian-1080.zip -d /boot/grub/themes
+unzip debian-1080p.zip -d /boot/grub/themes
 echo 'GRUB_THEME="/boot/grub/themes/darkmatter/theme.txt"' >> /etc/default/grub
 sudo update-grub
