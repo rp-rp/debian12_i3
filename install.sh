@@ -21,6 +21,7 @@ cp -v -r i3status ~/.config/
 cp -v -r kitty ~/.config/
 cp -v -r pcmanfm ~/.config/
 cp -v rp_theme ~/.moc/themes/
+cp -v bash_aliases ~/.bash_aliases
 #cp -v I-Noir-Gently-White-Blue-Dark-Icons.tar.gz ~/.icons
 #cp -v T-Breeze-Gently.tar.gz ~/.themes
 #cp -v fonts.7z ~/.fonts
