@@ -1,0 +1,58 @@
+
+
+background		= default	default
+frame			= red		default
+window_title		= white		default
+directory		= red 		default
+selected_directory	= yellow	default
+playlist		= blue		default
+selected_playlist	= magenta	default
+file			= red	default
+selected_file		= white		default
+marked_file		= cyan		default	bold
+marked_selected_file	= blue		default	bold
+info			= cyan		default
+status			= magenta	default
+title			= cyan		default
+state			= magenta	default
+current_time		= white	default
+time_left		= cyan		default
+total_time		= cyan		default
+time_total_frames	= magenta	default
+sound_parameters	= cyan		default
+legend			= magenta	default
+disabled		= black		default
+enabled			= yellow	default
+empty_mixer_bar		= red		white
+filled_mixer_bar	= white		red
+empty_time_bar		= red		white
+filled_time_bar		= white		red
+entry			= yellow	default
+entry_title		= red		default
+error			= red		default
+message			= white	default
+plist_time		= cyan	default
+
+# --------------------------------------------
+# värvid mida saab kasutada
+#black
+#red
+#green
+#yellow
+#blue
+#magenta
+#cyan
+#white
+#default
+#grey
+
+# normal      - default (no highlight)
+# standout    - best highlighting mode of the terminal
+# underline   - underlining
+# reverse     - reverse video
+# blink       - blinking
+# dim         - half bright
+# bold        - extra bright or bold
+# protect     - protected mode
+
+
