@@ -26,6 +26,7 @@ tar -zxvf I-Noir-Gently-White-Blue-Dark-Icons.tar.gz -C ~/.icons
 tar -zxvf T-Breeze-Gently.tar.gz -C ~/.themes
 tar -zxvf Darkbolt-cursor.tar.gz -C ~/.icons
 7z x fonts.7z -o/home/rp/.fonts
+sudo fc-cache
 
 cp -v gtkrc-2.0 ~/.gtkrc-2.0
 cp -v -r gtk-3.0 ~/.config/
