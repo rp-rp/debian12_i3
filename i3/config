@@ -208,8 +208,7 @@ client.background       #202020
 
 exec_always compton
 
-# taustapilt
-exec_always feh --bg-scale /home/rp/Pildid/.taust/taust.png
+exec_always feh --bg-scale ~/.wp/wp.png
 
 bindsym $mod+control+e exec pcmanfm
 bindsym $mod+control+w exec firefox-esr
