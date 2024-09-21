@@ -1,6 +1,7 @@
 xorg
 i3
 firefox-esr
+network-manager
 pcmanfm
 htop
 pulseaudio
