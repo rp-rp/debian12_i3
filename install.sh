@@ -1,8 +1,8 @@
-sudo apt-get install software-properties-common
+sudo apt-get install software-properties-common -y
 sudo apt-add-repository contrib
 sudo apt-add-repository non-free
-sudo apt update
-sudo apt upgrade
+sudo apt update -y
+sudo apt upgrade -y
 
 # install all shit
 bash packages.sh
