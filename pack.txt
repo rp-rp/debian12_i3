@@ -1,7 +1,5 @@
 xorg
 i3
-xinit
-network-manager
 firefox-esr
 pcmanfm
 htop
