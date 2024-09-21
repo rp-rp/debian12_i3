@@ -1,7 +1,6 @@
 xorg
 i3
 xinit
-suckless-tools
 network-manager
 firefox-esr
 pcmanfm
@@ -10,7 +9,7 @@ pulseaudio
 pavucontrol
 alsa-utils
 feh
-compton
+picom
 ufw
 kitty
 p7zip-full
