@@ -16,6 +16,8 @@ mkdir -p ~/.config
 mkdir -p ~/.moc
 mkdir -p ~/.moc/themes
 mkdir -p ~/bin
+mkdir -p ~/.config/geany/colorschemes
+
 
 cp -v wp.png ~/.wp/
 cp -v -r i3 ~/.config/
@@ -26,6 +28,8 @@ cp -v rp_theme ~/.moc/themes/
 cp -v bash_aliases ~/.bash_aliases
 cp -v /python/install-python ~/bin/
 cp -v /python/uninstall-python ~/bin/
+cp -v /geany/colorschemes/* ~/.config/geany/colorschemes/
+
 #cp -v I-Noir-Gently-White-Blue-Dark-Icons.tar.gz ~/.icons
 #cp -v T-Breeze-Gently.tar.gz ~/.themes
 #cp -v fonts.7z ~/.fonts
